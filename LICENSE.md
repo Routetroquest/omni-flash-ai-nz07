@@ -1,4 +1,4 @@
-# 
+# Professional Omni Flash extensions. Featuring multi-language-support and plugin-system — optimized for maximum performance and efficiency.
 
 
 
